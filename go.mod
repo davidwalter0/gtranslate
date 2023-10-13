@@ -1,4 +1,4 @@
-module github.com/davidwalter0/go-epub-translator/gtranslate
+module github.com/davidwalter0/gtranslate
 
 go 1.21.0
 
